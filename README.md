@@ -1,1 +1,1 @@
-# APCS-A
+# for computer science course at SCLS
