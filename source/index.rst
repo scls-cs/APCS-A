@@ -21,4 +21,12 @@ This website is for AP Computer Science at Shanghai Soong Ling School.
    Arrays/count
    Arrays/min-max
 
+.. toctree::
+   :caption: 二维数组
+   :hidden:
+   :maxdepth: 10
+
+   2D Array/traversal
+   2D Array/getColumn
+
 
