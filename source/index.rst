@@ -1,4 +1,4 @@
-This website is for AP Computer Science at Shanghai Soong Ling School.
+本网站用于宋庆龄学校中国部高中APCS的课堂教学。
 =========================================
 
 2/23/2022：
