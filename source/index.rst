@@ -26,6 +26,7 @@ This website is for AP Computer Science at Shanghai Soong Ling School.
    :hidden:
    :maxdepth: 10
 
+   ArrayList/basic_function
    ArrayList/getLen
    ArrayList/getList
    ArrayList/getPair
