@@ -22,6 +22,16 @@ This website is for AP Computer Science at Shanghai Soong Ling School.
    Arrays/min-max
 
 .. toctree::
+   :caption: 动态数组
+   :hidden:
+   :maxdepth: 10
+
+   ArrayList/getLen
+   ArrayList/getList
+   ArrayList/getPair
+
+
+.. toctree::
    :caption: 二维数组
    :hidden:
    :maxdepth: 10
