@@ -7,7 +7,7 @@
 
   public ArrayList<String> getList(String[] tokens) {
     ArrayList<String> result = new ArrayList<String>();
-    for(String s: result) {
+    for(String s: tokens) {
         if(s.equals("x") || s.equals("y")) {
             result.add(s);
         }
