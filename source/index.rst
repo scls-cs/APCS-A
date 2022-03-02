@@ -9,6 +9,8 @@
 
 * 如果你已经准备好，请来401办公室参加默写。
 
+* `算法默写情况 <https://docs.google.com/spreadsheets/d/1CjY6UYCyXwinu_agORn019kRkBflg0kbCJaLmhssjvE/edit#gid=0>`_
+
 
 .. title:: AP Computer Science A
 
