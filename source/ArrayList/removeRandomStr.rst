@@ -13,9 +13,9 @@
 
 .. code-block:: java
 
-public String removeRandomStr(ArrayList<String> list) {
-  if(list.size()>0) {
-    return list.remove((int)(Math.random()*list.size()));
+  public String removeRandomStr(ArrayList<String> list) {
+    if(list.size()>0) {
+      return list.remove((int)(Math.random()*list.size()));
+    }
+    return "None";
   }
-  return "None";
-}
