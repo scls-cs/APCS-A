@@ -15,6 +15,13 @@
 .. title:: AP Computer Science A
 
 .. toctree::
+   :caption: 字符串
+   :hidden:
+   :maxdepth: 10
+
+   String/reverse
+
+.. toctree::
    :caption: 数组
    :hidden:
    :maxdepth: 10
@@ -35,6 +42,7 @@
    ArrayList/remove
    ArrayList/removeRandomStr
    ArrayList/isBalanced
+   ArrayList/changeOrRemove
 
 
 .. toctree::

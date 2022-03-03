@@ -6,6 +6,7 @@
 
 列表变为["CD"]
 
+字符串反转算法见：:ref:`reverse_string`.
 
 - for loop
 .. code-block:: java
