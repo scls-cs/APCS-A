@@ -25,7 +25,7 @@
 - while loop
 .. code-block:: java
 
-  public static void changeOrRemove(ArrayList<String> list) {
+  public void changeOrRemove(ArrayList<String> list) {
     int i = list.size()-1;
     while(i>=0) {
       String cur = list.get(i);
