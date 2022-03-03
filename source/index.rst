@@ -32,6 +32,9 @@
    ArrayList/getLen
    ArrayList/getList
    ArrayList/getPair
+   ArrayList/remove
+   ArrayList/removeRandomStr
+   ArrayList/isBalanced
 
 
 .. toctree::
