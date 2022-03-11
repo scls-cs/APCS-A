@@ -19,6 +19,7 @@
    :hidden:
    :maxdepth: 10
 
+   String/method
    String/reverse
 
 .. toctree::
